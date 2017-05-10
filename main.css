@@ -3,3 +3,7 @@ body {
     font-family: 'Lotto', Arial, sans-serif, cursive;
     overflow: hidden;
 }
+
+.hightlight {
+    background-color: yellow;
+}
