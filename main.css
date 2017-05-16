@@ -1,9 +1,10 @@
 body {
     background-color: paleturquoise;
     font-family: 'Lotto', Arial, sans-serif, cursive;
-    overflow: hidden;
+    display: hidden;
 }
 
-.hightlight {
-    background-color: yellow;
+p {
+ font-family: 'Lotto', Arial, sans-serif, cursive;
+    background-color: green;
 }
