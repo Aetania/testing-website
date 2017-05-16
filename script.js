@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    ('p').hover(function() {
+    ('.plump').hover(function() {
         (this).fadeOut('fast', 0)
     });
 });
