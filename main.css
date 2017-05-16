@@ -1,7 +1,8 @@
 body {
-    background-color: paleturquoise;
+    background-color: paleturquoise !important;
     font-family: 'Lotto', Arial, sans-serif, cursive;
     display: hidden;
+    text-align: centered !important;
 }
 
 p {
